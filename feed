@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SCV Carpets</title>
+	<atom:link href="https://BSW1001.github.io/scvcarpets/feed" rel="self" type="application/rss+xml" />
+	<link>https://BSW1001.github.io/scvcarpets</link>
+	<description>SCV Carpets</description>
+	<lastBuildDate>Thursday, 18 February 2021 13:06:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>Tile &amp; Grout Cleaning For the Do it Yourselfer</title>
+		<link>https://BSW1001.github.io/scvcarpets/rugs/Tile-Grout-Cleaning-For-the-Do-it-Yourselfer.html</link>
+		<pubDate>Thursday, 18 February 2021 13:06:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[rugs]]></category>
+		<guid isPermaLink="false">https://BSW1001.github.io/scvcarpets/rugs/Tile-Grout-Cleaning-For-the-Do-it-Yourselfer.html</guid> 
+		<description><![CDATA[Tile &amp; Grout Cleaning For the Do it Yourselfer
+by
+Saleem Javed
+Posted on 18-02-2021 01:06 PM
+Tile &amp; Grout Cleaning For the Do it Yourselfer 
+ If making use of natural tile cleaning solutions really did not help your tiles, you can use chemical cleaners which are particularly designed for cleaning grout&amp;nbsp; https://wwwcarpetcleanersscv
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
